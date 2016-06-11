@@ -1,0 +1,27 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanpaidar/shop.git"
+  },
+  "author": "Saman Paidar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samanpaidar/shop/issues"
+  },
+  "homepage": "https://github.com/samanpaidar/shop#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mocha": "^2.5.3",
+    "mongodb": "^2.1.18",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.4.20",
+    "underscore": "^1.8.3"
+  }
+}
